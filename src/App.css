@@ -1,0 +1,78 @@
+.btn {
+    width: 70px;
+    padding: 10px;
+    background-color: red;
+    border: 1px solid black
+}
+
+tr,
+td,
+th {
+    border: 1px solid black
+}
+
+/* container Router */
+.container {
+    width: 100%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+#dataTable {
+    margin: auto;
+}
+
+.NAV {
+    text-align: right;
+}
+
+.NAV li {
+    display: inline-block;
+    padding: 15px 15px;
+}
+
+
+.nav-bar-li {
+    color: darkslategrey;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.nav-bar-li:hover {
+    background-color: cornflowerblue;
+}
+
+.active {
+    background-color: chartreuse;
+}
+
+
+/* redux */
+
+.anchor {
+    padding: 15px;
+    background-color: chartreuse;
+    text-decoration: none;
+}
+
+input {
+    padding: 10px;
+    width: 80px;
+}
+
+.mybtn {
+    background-color: red;
+    border: none;
+    padding: 10px;
+}
+
+.pointer {
+    position: absolute;
+    right: 12px;
+    z-index: 1;
+    top: 10px;
+    background-color: red;
+    padding: 2px;
+    border-radius: 20px;
+    color: wheat;
+}
